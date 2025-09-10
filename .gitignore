@@ -1,0 +1,65 @@
+
+# =========================
+# R / RStudio
+# =========================
+**/.RData
+**/.Rhistory
+**/.Rproj.user/
+**/.Rproj
+**/R_Script.R
+**/Data PROJECT.Rproj
+# =========================
+# Python
+# =========================
+**/__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+**/.venv/
+**/venv/
+*.egg-info/
+**/newsapi_pull.py
+**/reddit_apipull.py
+**/*.pyc
+**/*.pyo
+
+# =========================
+# Data (raw / outputs)
+# =========================
+**/Tabl Union/
+**/.hyper
+
+
+# =========================
+# Logs / outputs
+# =========================
+**/runlog.txt
+*.log
+*.out
+*.bak
+*.tmp
+*.twbx
+
+# =========================
+# Automation / scripts
+# =========================
+**/automator.bat
+
+
+# =========================
+# Environment / secrets
+# =========================
+**/.env
+**/.pkl
+
+# =========================
+# Editor / system files
+# =========================
+**/.vscode/
+**/.idea/
+**/.DS_Store
+**/Thumbs.db
+**/.bak
+**/.swp
+
+
+
