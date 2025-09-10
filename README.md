@@ -115,23 +115,9 @@ Trigger the R cleaning script.
 Save cleaned data into /Data/cleaned_data/.
 
 ⚠️ Note: You’ll need Python, R, and required libraries installed for this automation to work.
-5. 📂 Repo Layout
-Sentiment_Analysis/
-│
-├── Data/
-│   ├── raw_data/          # Sample raw inputs (Reddit + NewsAPI)
-│   ├── cleaned_data/      # Cleaned data outputs
-│   └── outputs/           # Figures, screenshots , Tableau workbok Dashboard.twb
-│
-├── Scripts/                   # Scripts
-│   ├── News_API_Script.py
-│   ├── Reddit_APP_Script.py
-│   ├── 
-│   └── Analysis.R
-│
-│
 
-6. 📝 Notes & Credits
+
+5. 📝 Notes & Credits
 
 Data from NewsAPI
  and Reddit API.
